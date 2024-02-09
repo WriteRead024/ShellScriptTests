@@ -6,9 +6,9 @@
 # current shell is running in a terminator
 # terminal emulator
 
-# the actual script is in the GitHub repo
 # see https://github.com/WriteRead024/BashScripts
 # file bash-pm2-start.sh for an example usage
+# Rich W. Feb. 2024
 
 SETOUTPUT=$(set | grep "terminator")
 
